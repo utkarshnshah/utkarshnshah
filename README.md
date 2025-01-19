@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software professional with multi-industry experience in Data Analysis, Systems Integration, Systems Analysis, API, Web and Software Development, providing techincal support to staff and people.
+I am a software professional with multi-industry experience in Data Analysis, Systems Integration, Systems Analysis, APIs, Web and Software Development, providing techincal support to staff and clients.
 
 - 📫 How to reach me: Email me at utkarshnshah@hotmail.com
 <!--
